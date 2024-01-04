@@ -1,7 +1,7 @@
 
 variable "server_count" {
   type        = number
-  default     = 3
+  default     = 4
   description = "The total number of VMs to create"
 }
 
