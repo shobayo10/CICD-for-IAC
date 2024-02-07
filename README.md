@@ -55,9 +55,7 @@ Using the Terraform configuration provided, this produces the following output o
 
 ## Using the Exercise Files
 ### 1. Add permissions to your service account; Create an S3 bucket
-1. _For details on creating or updating a service account, see the [instructions in lesson 04_04](../04_04_create_a_service_account/README.md)._
-
-    Add the following permission to the service account you will use for this exercise:
+1.  Add the following permission to the service account you will use for this exercise:
 
         AmazonS3FullAccess
 
